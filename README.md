@@ -6,7 +6,7 @@
   * #### [Primary Fields](###Primary-Fields)
   * #### [Computer Vision](###Computer-Vision)
 * #### [Tools](##Tools)
-  * #### [Hardware] (###CVM)
+  * #### [Hardware](###Hardware)
   * #### [CVM](###CVM)
 
 Personal Projects are a strong tool to improve your portfolio in engineering. Robotics engineering in specific relies on many feilds of engineering and a well designed project can demonstrate your skill and experience.
@@ -29,5 +29,4 @@ To conduct this Project you will need the following tools and an understanding o
 We will need an RGB camera with a minimum resolution of 600x600 (see [CVM](###CVM))
 
 ### CVM
-
 
