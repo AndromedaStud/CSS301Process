@@ -2,12 +2,12 @@
 ###### By Elijah Stradley
 
 ## Table of Contents
-* #### [Focus](##Focus)
-  * #### [Primary Fields](###Primary-Fields)
-  * #### [Computer Vision](###Computer-Vision)
-* #### [Tools](##Tools)
-  * #### [Hardware](###Hardware)
-  * #### [CVM](###CVM)
+* #### [Focus](## Focus)
+  * #### [Primary Fields](### Primary-Fields)
+  * #### [Computer Vision](### Computer-Vision)
+* #### [Tools](## Tools)
+  * #### [Hardware](### Hardware)
+  * #### [CVM](### CVM)
 
 Personal Projects are a strong tool to improve your portfolio in engineering. Robotics engineering in particular relies on many fields of engineering, and a well-designed project can demonstrate your skill and experience.
 
