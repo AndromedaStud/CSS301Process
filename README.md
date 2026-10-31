@@ -47,7 +47,11 @@ To download YOLO we will use pip to install the library into your Python environ
 Make sure to install it in your local environment. To ensure this, make sure the file path in your terminal is set to your enviroments file path
 
 ### Webcam 
-To 
+To MY DRAFT DIDNT SAVE SO ALL THE REST IS MISSING 😭
+
+## Visual Element
+In Progress (Going to office hours for help)
+
 
 ## Refrences
 [1] G. Jocher et al., “Yolo Object Detection & Segmentation,” Ultralytics Docs, https://docs.ultralytics.com/ (accessed Oct. 30, 2026).
