@@ -1,7 +1,7 @@
 # Conducting a Personal Project for the Robotics Engineering Field
 ###### By Elijah Stradley
 
-#Note: Due to an unexpected windows shutdown, an entire push was lost, I am currently rewriting it, this is 30% rewritten
+# Note: Due to an unexpected windows shutdown, an entire push was lost, I am currently rewriting it, this is 30% rewritten
 
 ## Table of Contents
 * #### [Focus](#Focus)
