@@ -23,7 +23,8 @@ According to Market Research reports, the largest valued types of robots are ind
 When choosing a project topic, it is fundamental that the project is focused on one of the components of these industries. For example, computer vision, pathing, precision movement, and automation are all categories that fit the field.
 
 ### Choosing a Topic
-When deciding on your project, it is essential to compare your project options against each other in restricted categories. These categories define the limitations you have when working on a project also known as its scale. Time, money, research, and relevance are the categories that will affect you the most. To best compare your project concepts, it is wise to use a Pugh Matrix, which will visualise the value and downside of each concept.
+When deciding on your project, it is essential to compare your project options against each other in restricted categories. These categories define the limitations you have when working on a project also known as its scale. Time, money, research, and relevance are the categories that will affect you the most. To best compare your project concepts, it is wise to use a Pugh Matrix, which will visualise the value and downside of each concept. To help with designing your own, an example is provided below
+
 
 
 
