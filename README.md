@@ -1,4 +1,4 @@
-Completing a Robotics Engineering Portfolio Project
+#Completing a Robotics Engineering Portfolio Project
 
 **Prepared for:** Husky student pursuing a job as a Robotics Engineer  
 **Prepared by:** Elijah Stradley  
