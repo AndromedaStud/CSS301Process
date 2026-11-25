@@ -50,10 +50,9 @@ Hiring managers in robotics review portfolios before they review resumes. A sing
 
 **Figure 1:** Example project board
 
-![Example project board for a person-identification project, with an overview, component list, microcontroller pinout diagram, and a timeline with completion marks.](project_board_example.png)
+<img width="960" height="720" alt="project_board_example" src="https://github.com/user-attachments/assets/239b259a-3cc6-4721-9f67-9207e4ef78db" />
 
-
-In Figure 1, the component list on the left lets you order parts early, and the pinout diagram shows the wiring. The timeline shows a rough draft to keep the project on time using deadlines.
+In Figure 1, the component list lets you order parts early, and the pinout lists each wire connection before you solder. The dated timeline shows when each task is due. Add a new dated task whenever a test reveals more work, so you adjust the plan instead of restarting the project.
 
 ### Hardware
 
