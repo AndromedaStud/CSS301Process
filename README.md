@@ -50,7 +50,7 @@ Hiring managers in robotics review portfolios before they review resumes. A sing
 
 **Figure 1:** Example project board
 
-<img width="960" height="720" alt="project_board_example" src="https://github.com/user-attachments/assets/239b259a-3cc6-4721-9f67-9207e4ef78db" />
+<img width="2000" height="1500" alt="project_board_example v2" src="https://github.com/user-attachments/assets/137ea372-6391-4830-a826-26f9679a71db" />
 
 In Figure 1, the component list lets you order parts early, and the pinout lists each wire connection before you solder. The dated timeline shows when each task is due. Add a new dated task whenever a test reveals more work, so you adjust the plan instead of restarting the project.
 
