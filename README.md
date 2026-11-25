@@ -44,15 +44,17 @@ Hiring managers in robotics review portfolios before they review resumes. A sing
 
 ### Project Board
 
-**Why:** A project board creates a visualization of the project goals and steps. Employers also expect engineers to track work this way, and weekly tasks show you early whether your schedule is realistic.
+**Why:** A project board makes remaining work visible, so a missed deadline appears as a stalled card instead of a surprise. Employers also expect engineers to track work this way, and weekly tasks show you early whether your schedule is realistic.
 
-**Best practice:** Create a board with Backlog, In Progress, and Done columns in GitHub Projects or Trello. Split the project into tasks that take one week or less. Keep one card in In Progress at a time to limit unfinished work. Figure 1 shows an example board.
+**Best practice:** Create a one-page board that states the project overview, lists the components, and gives a dated timeline. Split the timeline into tasks that take one week or less, and mark each task complete when you finish it. Figure 1 shows an example board.
 
 **Figure 1:** Example project board
 
-![Example project board with task cards sorted into Backlog, In Progress, and Done columns.](project_board_example.png)
+![Example project board for a person-identification project, with an overview, component list, microcontroller pinout diagram, and a timeline with completion marks.](project_board_example.png)
 
-In Figure 1, each card holds one task. Moving a card from left to right shows your progress at a glance, and new cards enter the Backlog whenever a test reveals more work, so you adjust the plan instead of restarting the project.
+<sub>© Pinout diagram from Seeed Studio XIAO documentation</sub>
+
+In Figure 1, the component list on the left lets you order parts early, and the pinout diagram shows the wiring. The timeline shows a rough draft to keep the project on time using deadlines.
 
 ### Hardware
 
