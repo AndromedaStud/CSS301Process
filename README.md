@@ -52,7 +52,6 @@ Hiring managers in robotics review portfolios before they review resumes. A sing
 
 ![Example project board for a person-identification project, with an overview, component list, microcontroller pinout diagram, and a timeline with completion marks.](project_board_example.png)
 
-<sub>© Pinout diagram from Seeed Studio XIAO documentation</sub>
 
 In Figure 1, the component list on the left lets you order parts early, and the pinout diagram shows the wiring. The timeline shows a rough draft to keep the project on time using deadlines.
 
